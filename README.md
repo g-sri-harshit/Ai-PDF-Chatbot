@@ -44,3 +44,8 @@ git clone https://github.com/your-username/AI-PDF-Chatbot.git
 cd AI-PDF-Chatbot
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## Demo Picture
+
+<img width="1743" height="859" alt="Screenshot 2026-04-13 203217" src="https://github.com/user-attachments/assets/706411e5-8d36-449d-88d8-15f72cfa3ed1" />
