@@ -20,6 +20,7 @@ An intelligent chatbot that can read PDF documents and answer questions using Re
 - Streamlit
 - SentenceTransformers
 - PyMuPDF (fitz)
+- Ollama
 - FAISS / Custom Vector Store
 - Pytesseract (OCR)
 
