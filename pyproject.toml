@@ -1,0 +1,17 @@
+[project]
+name = "book-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "faiss-cpu>=1.13.2",
+    "numpy>=2.4.4",
+    "openai>=2.31.0",
+    "pillow>=12.2.0",
+    "pymupdf>=1.27.2.2",
+    "pytesseract>=0.3.13",
+    "sentence-transformers>=5.4.0",
+    "streamlit>=1.56.0",
+    "torchvision>=0.26.0",
+]
