@@ -37,6 +37,12 @@ An intelligent chatbot that can read PDF documents and answer questions using Re
 
 ---
 
+## Demo Picture
+
+<img width="1743" height="859" alt="Screenshot 2026-04-13 203217" src="https://github.com/user-attachments/assets/706411e5-8d36-449d-88d8-15f72cfa3ed1" />
+
+---
+
 ## ▶️ Run Locally
 
 ```bash
@@ -45,7 +51,3 @@ cd AI-PDF-Chatbot
 pip install -r requirements.txt
 streamlit run app.py
 
-
-## Demo Picture
-
-<img width="1743" height="859" alt="Screenshot 2026-04-13 203217" src="https://github.com/user-attachments/assets/706411e5-8d36-449d-88d8-15f72cfa3ed1" />
